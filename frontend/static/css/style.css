@@ -1,0 +1,9 @@
+/* 
+This style file is only for root level styling 
+For component level styling, create particular .css files and import
+*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
